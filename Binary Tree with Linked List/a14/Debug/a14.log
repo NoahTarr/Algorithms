@@ -1,0 +1,4 @@
+﻿  binarytree_client.cpp
+  binarytree.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  a14.vcxproj -> C:\Users\noaht\OneDrive\Documents\SRJC\Second Semester\CS11\Assignments\Assignment 14 - Binary Trees 2\a14\Debug\a14.exe
+  a14.vcxproj -> C:\Users\noaht\OneDrive\Documents\SRJC\Second Semester\CS11\Assignments\Assignment 14 - Binary Trees 2\a14\Debug\a14.pdb (Partial PDB)
